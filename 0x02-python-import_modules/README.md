@@ -1,1 +1,1 @@
-This is for the 0X02.Python project
+0x02-python
